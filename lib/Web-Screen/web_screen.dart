@@ -62,7 +62,7 @@ class WebScreenResponsive extends StatelessWidget {
     );
   }
 
-  //Material Button
+  //Material Button default function
   MaterialButton buildMaterialButton({required String label}) {
     return MaterialButton(
       height: 60.0,
